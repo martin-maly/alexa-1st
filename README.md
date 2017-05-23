@@ -1,2 +1,2 @@
-# alexa-1st
-My first Alexa skill
+# alexa-bus
+Get a next bus from my office.
